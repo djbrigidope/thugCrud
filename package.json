@@ -1,0 +1,26 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "crud list of thug names for babies",
+  "main": "task.js\t\t",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djbrigidope/thugCrud.git"
+  },
+  "author": "dj brigidope",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djbrigidope/thugCrud/issues"
+  },
+  "homepage": "https://github.com/djbrigidope/thugCrud#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
